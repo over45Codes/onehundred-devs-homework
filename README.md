@@ -23,8 +23,10 @@ Progress: Prep work...Today was time spent on setup. This includes:
 -Created and Pushed README.md doc to GitHub (@<https://github.com/over45Codes>)
 
 **Thoughts:** Excited to continue this bootcamp!!!
+Always remember: “code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+🔥BUILD MORE … LEARN LESS by Dorian Develops
 
-**Link to work:**  New README.md log for #100Devs Bootcamp Learning Journey: new link (<tbd>)
+**Link to work:**  New README.md log for #100Devs Bootcamp Learning Journey: new link (<https://github.com/over45Codes/100devs-homework>)
 
 
 ## Author
